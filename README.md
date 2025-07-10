@@ -28,13 +28,8 @@ I’m **Mohamed Hossam**, a Flutter developer passionate about building seamless
 - 💻 **OS**: Windows  
 - 🛠 **IDE**: VS Code  
 - 📱 **Framework**: Flutter  
-- ☁️ **Backend**: Firebase, Node.js
+- ☁️ **Backend**: Firebase, Hive
 
----
 
-### 📊 GitHub Stats (optional)
-![mo7ossam44](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
----
 
 > 🚀 I’m always open to collaboration and new ideas. Feel free to reach out!
