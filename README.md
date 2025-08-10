@@ -15,14 +15,6 @@ I’m **Mohamed Hossam**, a Flutter developer passionate about building seamless
 - Enhancing UX while maintaining performance.
 
 ---
----
-
-### 🚀 Highlight Projects
-- **GymForm AI**: EMG sensor + Flutter app for real-time workout form evaluation.
-- **Graduation Project**: An end-to-end system including hardware, mobile app, backend, and ML.
-- *(Add more projects with links here)*
-
----
 
 ### 🧰 Tools & Environment
 - 💻 **OS**: Windows  
