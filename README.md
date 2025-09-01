@@ -2,7 +2,7 @@
 <h1>Hi there! I'm <strong>Mohamed Hossam</strong> 👋🏼</h1>
 
 ### 📫 Connect with me:
-[![GitHub](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/YourUsername)  
+[![GitHub](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)]([https://github.com/YourUsername](https://github.com/mo7ossam44))  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/mohamed-hossam-89bbb4283)  
 [![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=gmail)](mailto:your.email@example.com)
 
